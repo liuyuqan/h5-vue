@@ -1,10 +1,8 @@
-<p align="center">
-  <img width="320" src="http://bgk.nmm80.com/admin_xpx/images/login.png">
-</p>
+
 
 简体中文 | [English](./README.md) | 
 
-## 简介 作者-刘玉全
+## 简介 作者-liuyuquna
 [driver_salary_online](https://panjiachen.github.io/vue-element-admin) 是一个可前端可后台分离的demo，
 它基于 [vue](https://cn.vuejs.org/) 和 [element-ui](https://element.eleme.cn/2.13/#/zh-CN)实现。
 重新封装了利用vue混入（mixin）封装全局参数以及函数 [xVue](./js/XVue.js)，当前小胖熊后台vue+element-ui开发方式较多，但当前自带后台会有全局样式影响组件样式
